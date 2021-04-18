@@ -2,9 +2,9 @@
 
 
 
-## Format
+## File Format
 
-- Commented out URL of the problem at the top.
+- URL of the problem commented out at line one.
 - Solution with Ruby.
 
 
